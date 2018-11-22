@@ -1,1 +1,3 @@
-# Praktikum_Algopro
+# Praktikum_AlgoproD
+
+#Muhammad Riza Radyaka Susanto#
